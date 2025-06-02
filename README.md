@@ -14,6 +14,9 @@ If you wish to fully recreate the Carbon & Place build:
 1. Fill this repo with the files ad described in the README.md files
 1. Follow instruction the `build` repo.
 
+## Licence
+
+The [LICENCE](https://github.com/PlaceBasedCarbonCalculator/inputdatasecure/blob/main/LICENSE) file only applies to the repo without any data. Please see the data owners for information on the licence for each dataset.
 
 ## Acces Requests
 
