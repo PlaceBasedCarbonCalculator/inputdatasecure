@@ -12,7 +12,7 @@ If you wish to fully recreate the Carbon & Place build:
 
 1. Clone this repo alongside the `build` and `inputdata` repos.
 1. Fill this repo with the files described in the README.md files
-1. Follow instruction the `build` repo.
+1. Follow the instructions in the `build` repo.
 
 ## Licence
 
