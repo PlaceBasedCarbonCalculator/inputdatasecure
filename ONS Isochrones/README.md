@@ -19,4 +19,4 @@ The files downloaded are:
 * UK_Travel_Area_Isochrones_(Nov_Dec_2022)_by_Public_Transport_and_Walking_for_West_Scotland_South_Isochornes_-_Generalised_to_10m.zip
 * UK_Travel_Area_Isochrones_(Nov_Dec_2022)_by_Public_Transport_and_Walking_for_Yorkshire_and_the_Humber_-_Generalised_to_10m.zip 
 
-The contain the shapefile versions of the data.
+They contain the shapefile versions of the data.
